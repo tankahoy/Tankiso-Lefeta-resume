@@ -71,7 +71,7 @@ I possess expertise in environmental health, geospatial analysis, and advanced e
 ## REFERENCES
 
 **Prof. Dieter Von Fintel**  
-Senior lecture at Stellenbosch University in the Department of Economics and main PhD supervisor.\ 
+Senior lecture at Stellenbosch University in the Department of Economics and main-PhD supervisor. 
 Email: [dieter2@sun.ac.za](mailto:dieter2@sun.ac.za)
 
 **Prof. Ronelle Burger**  
