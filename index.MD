@@ -19,7 +19,7 @@ I am a full-time doctoral candidate and research assistant in the Department of 
 - **PhD Thesis:** Housing, Air Quality, and Child Health: A Multi-dimensional Analysis of Environmental and Social Determinants in South Africa
   - The first part of my research focuses on the impact of access to housing on child develop￾ment, particularly focusing on stunted growth in low-income households in South Africa.
   - The second study examines the trimester-specific effects of in-utero NO2 exposure on birth weight and the probability of low birth weight in South Africa.
-- The last chapter assesses, in a non-causal manner, the effect of NO2 exposure on several distributional statistics of birth weight, separately for homeland and non-homeland regions.
+  - The last chapter assesses, in a non-causal manner, the effect of NO2 exposure on several distributional statistics of birth weight, separately for homeland and non-homeland regions.
 
 ### Stellenbosch University – Cape Town, South Africa (2019 - 2020)
 - **Master’s Degree in Economics**
