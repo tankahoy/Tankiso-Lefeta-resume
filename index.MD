@@ -36,7 +36,7 @@ I am a full-time doctoral candidate and research assistant in the Department of 
 
 ## EXPERIENCE
 
-### Stellenbosch University – Cape Town, South Africa (Feb 2021 – Present)
+### Stellenbosch University – Cape Town, South Africa (Feb 2021 – 2023)
 #### **Air Quality Data Analyst - Building Healthier Communities**
 - Building Healthier Communities is a long-term, multidisciplinary collaboration research project that examines the impact of environmental factors on child stunting in South Africa, including air pollution.
 - Successfully trained fieldworkers in study communities on the use of low-cost air monitoring devices, conducting interviews, and gathering household information (e.g., cooking and heating practices).
